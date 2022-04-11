@@ -39,13 +39,18 @@ For more about the data generation see: https://mushroom.mathematik.uni-marburg.
 
 Blackwell M. (2011). The fungi: 1, 2, 3 ... 5.1 million species ?. American journal of botany, 98(3), 426–
 438. https://doi.org/10.3732/ajb.1000298
+
 Casadevall, A., Heitman, J., & Buckley, M. (2008). The Fungal Kingdom: Diverse and Essential Roles in 
 Earth's Ecosystem.
+
 Faraway, J. (2016). Extending the linear model with R. Second Edition, Chapman and Hall. ISBN 
 9781498720960
+
 Harding, P., (2013). Mushroms and Toadstools. Dorling Kindersley.
+
 Wagner, D., Heider, D., & Hattab, G. (2021). Mushroom data creation, curation, and simulation to 
 support classification tasks. Scientific reports, 11(1), 8134. https://doi.org/10.1038/s41598-021-87602-3
+
 Wasser S. P. (2017). Medicinal Mushrooms in Human Clinical Studies. Part I. Anticancer, 
 Oncoimmunological, and Immunomodulatory Activities: A Review. International journal of medicinal 
 mushrooms, 19(4), 279–317. https://doi.org/10.1615/IntJMedMushrooms.v19.i4.10
