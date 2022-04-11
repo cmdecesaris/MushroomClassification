@@ -1,6 +1,6 @@
 # Mushroom Classification
 
-# Project Introduction 
+## Project Introduction 
 
 Mushrooms are diverse, complex structures with a multitude of overlapping and contrasting 
 characteristics between species. To better understand how mushroom characteristics affect edibility, a 
@@ -11,7 +11,7 @@ probability of being inedible, while mushrooms with bell shaped caps, and green 
 chance of being inedible. The overall model fit was sufficient, but future studies would benefit from 
 datasets with increased sample sizes across all predictors.
 
-# Data Description
+## Data Description
 
 This dataset includes 61069 hypothetical mushrooms with caps based on 173 species (353 mushrooms
 per species). Each mushroom is identified as definitely edible, definitely poisonous, or of
@@ -21,12 +21,12 @@ Original Owner and Doner: D. Wagner
 
 For more about the data generation see: https://mushroom.mathematik.uni-marburg.de/files/
 
-# Running the Project
+## Running the Project
 
 1. Preprocessing.R is sourced to run before the Graphs_Tables.R and Logistic_Regression.R files
 2. The Graphs_Tables.R and Logistic_Regression.R files can be run independently  
 
-# Files in this Repository 
+## Files in this Repository 
 1. primary_data.csv: data donated by D. Wangner used in this project
 2. Preprocessing.R: File which cleans and wrangles the data into a suitable form for visualizaiton and modeling approaches
 3. Graphs_Tables.R: File which generates the *majority* of graphs and tables found in the Report.pdf and Summary_Poster.pdf
@@ -35,4 +35,4 @@ For more about the data generation see: https://mushroom.mathematik.uni-marburg.
 6. Summary_Poster.pdf: Summary of the report and key parts of the project
 
 
-# References
+## References
